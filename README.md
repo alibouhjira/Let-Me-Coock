@@ -108,4 +108,4 @@ git clone https://github.com/tonpseudo/recipeapp.git
 
 Développé par **Ali Bouhjira**
 🔗 LinkedIn : [https://linkedin.com/in/ali-bouhjira-iot](https://linkedin.com/in/ali-bouhjira-iot)
-💻 GitHub : [https://github.com/tonpseudo](https://github.com/tonpseudo)
+💻 GitHub : [https://github.com/alibouhjira](https://github.com/alibouhjira)
